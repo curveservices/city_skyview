@@ -6,11 +6,10 @@
 <a href="https://curveservices.github.io/city_skyview/">A City Skyview</a>
 
 ### PC View
-
 #### By Day
 <img width="938" alt="Screenshot 2023-03-10 at 17 34 00" src="https://user-images.githubusercontent.com/101556296/224384738-7bd4e645-f70a-4e9a-8d38-da03968cc6d7.png">
 
-#### By Night
+#### By Night
 <img width="722" alt="Screenshot 2023-03-10 at 17 34 20" src="https://user-images.githubusercontent.com/101556296/224384868-e6a337ec-95b2-4c4f-a941-51b4158d7b67.png">
 
 ## Overview
